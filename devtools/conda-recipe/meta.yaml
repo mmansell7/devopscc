@@ -23,5 +23,5 @@ test:
     - devopscc
 
 about:
-  home: add_url_here
+  home: github.com/mmansell7/devopscc
   license: BSD-3-Clause License
